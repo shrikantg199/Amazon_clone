@@ -22,13 +22,13 @@ This project is an Amazon clone website created using React and Tailwind CSS wit
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shrikantg199/amazon-clone.git
+   git clone https://github.com/shrikantg199/amazon-clone.git](https://github.com/shrikantg199/Amazon_clone.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd amazon-clone
+   cd Amazon_clone
    ```
 
 3. Install dependencies:
