@@ -19,7 +19,7 @@ function HeroSection() {
     <>
       <div className="hero-section flex gap-6 ">
         <div className="hero-cards  w-80 h-72 mt-72 ml-5 bg-white font-bold justify-center p-2 text-xl">
-          Up to 75% off | Headphones
+          Up to 75% off | Headphones.
           <div className="flex gap-2 mt-2 cursor-pointer">
             <div className="div1  w-36 ">
               <img src={boat} alt="" />
